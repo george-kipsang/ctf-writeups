@@ -10,10 +10,10 @@ It is divided into two major sections:
 These are challenges completed on popular online cybersecurity platforms.
 
 ### Included Platforms
-- [HackTheBox](./platforms/HackTheBox/)
-- [TryHackMe](./platforms/TryHackMe/)
-- [VulnHub](./platforms/VulnHub/)
-- [OverTheWire](./platforms/OverTheWire/)
+- [HackTheBox](./platforms/hackthebox/)
+- [TryHackMe](./platforms/tryhackme/)
+- [VulnHub](./platforms/vulnhub/)
+- [OverTheWire](./platforms/overthewire/)
 
 Each platform is organized by machine/challenge name, and every writeup follows a consistent format with screenshots stored in an `assets/` folder and referenced using standard Markdown:
 
@@ -25,7 +25,7 @@ Each platform is organized by machine/challenge name, and every writeup follows 
 These are writeups from formal competitions, events, and school-based cybersecurity contests.
 
 ### Included Competitions
-- [PicoCTF](./competitions/PicoCTF/)
+- [PicoCTF](./competitions/picoctf/)
 - (More will be added as I participate in new events)
 
 ---
