@@ -29,6 +29,10 @@ So, in the rustscan syntax, the -- enables us to pass the nmap commands -sC and 
 
 ![nmap](./assets/nmap.png)
 
+---
+
+# Enumeration
+
 With port 8000 open, I navigated to the web application in the browser.
 
 ![webpage](./assets/webpage.png)
@@ -52,7 +56,7 @@ The directories discovered matched what was already exposed by the web interface
 
 ---
 
-## Application Enumeration
+### Application Analysis
 
 Clicking **Download App** returned a ZIP archive. Extracting it revealed the source code for the web application.
 
@@ -89,7 +93,7 @@ At this stage, I had a clear understanding of the technology stack and applicati
 
 ---
 
-## Application Structure
+### Application Structure
 
 The `requirements.txt` confirmed that this was a **custom Flask application**
 
@@ -114,7 +118,7 @@ The directory structure followed a standard Flask layout:
 
 ---
 
-## Web Application Interaction
+### Web Application Interaction
 
 With the application structure understood, I returned to the live site and created an account. After logging in, I was redirected to a dashboard containing a JavaScript code editor with **Run** and **Save** functionality.
 
@@ -133,7 +137,7 @@ The output correctly returned `16`, confirming that the JavaScript was being exe
 
 ---
 
-## Understanding the Execution Logic
+### Understanding the Execution Logic
 
 From both code review and testing, the execution flow became clear:
 
@@ -329,9 +333,9 @@ I then executed the backup as root.
 sudo /usr/local/bin/npbackup-cli -c /tmp/npbackup.conf -b
 ```
 
-Even though an error appeared, the post-execution commands had already run.
-
 ![npbackup](./assets/npbackup)
+
+Even though an error appeared, the post-execution commands had already run.
 
 ---
 
