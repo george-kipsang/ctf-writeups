@@ -1,7 +1,17 @@
-# Easy Machines¶
-This section features beginner-friendly TryHackMe machines designed for foundational skills in reconnaissance, enumeration, and basic exploitation. Each room emphasizes practical learning with guided environments ideal for newcomers to cybersecurity.
+# Beginner Machines – HackTheBox
+This section features beginner-friendly HackTheBox machines designed for **foundational skills in reconnaissance, enumeration, and basic exploitation**.  
 
-## Completed Machines¶
-- [CodePartTwo](./codePartTwo/codePartTwo.md)
+Each machine emphasizes practical learning ideal for newcomers to cybersecurity.
 
-More easy machines will be added as progress continues through TryHackMe's beginner track.
+## **Linux Machines** ![Linux](https://img.shields.io/badge/OS-Linux-blue)
+
+- [CodePartTwo](./codePartTwo/codePartTwo.md)  
+- [Lame](./lame/lame.md)  
+- [Soulmate](./soulmate/soulmate.md)
+
+## **Windows Machines** ![Windows](https://img.shields.io/badge/OS-Windows-brightgreen)
+
+*No Windows beginner machines completed yet.*  
+*Coming soon…*
+
+More beginner machines will be added as I continue exploring and solving more easy machines.
