@@ -26,8 +26,8 @@ Each platform is organized by machine/challenge name, and every writeup follows 
 These are writeups from formal competitions, events, and school-based cybersecurity contests.
 
 ### Included Competitions
-- [PicoCTF](./competitions/picoctf/)
-- [Meru CTF 2025](./competitions/meru-ctf-2025)
+- [PicoCTF](./competitions/picoctf/index.md)
+- [Meru CTF 2025](./competitions/meru-ctf-2025/index.md)
 - (More will be added as I participate in new events)
 
 ---
