@@ -1,13 +1,17 @@
-# Natas — Web Security WarGame¶
-Welcome to Natas, OverTheWire’s legendary web exploitation series.
+# OverTheWire Writeups
+[OverTheWire](https://overthewire.org/) offers **wargames** to help you learn and practice security concepts in a hands-on, gamified environment. 
 
-These writeups cover levels 0–5, with screenshots, explanations, and learning notes.
+Each game provides a series of challenges to strengthen Linux, networking, binary exploitation, cryptography, and web security skills.
 
-## Completed Levels¶
-- [Natas 0](./level0/natas0.md)
-- [Natas 1](./level1/natas1.md)
-- [Natas 2](./level2/natas2.md)
-- [Natas 3](./level3/natas3.md)
-- [Natas 4](./level4/natas4.md)
-- [Natas 5](./level5/natas5.md)
-- …more levels coming soon 🔒
+## Wargames Tracks
+Suggested order for beginners:
+
+- **Bandit** – Unix/Linux basics  
+- [Natas](./natas/index.md)** – Web security  
+- **Krypton** – Cryptography
+- **Leviathan** – Reverse engineering  
+... more to be added as I play along 
+
+*Each wargame uses its own SSH port — instructions for connecting are provided on the OverTheWire site.*
+
+---
