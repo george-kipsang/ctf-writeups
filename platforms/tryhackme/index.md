@@ -1,5 +1,5 @@
 # TryHackMe Writeups¶
-TryHackMe provides hands‑on cybersecurity labs that reinforce practical exploitation skills.
+[TryHackMe](https://tryhackme.com/) provides hands‑on cybersecurity labs that reinforce practical exploitation skills.
 
 This section contains my curated collection of room writeups — structured, concise, and focused on methodology.
 
@@ -11,3 +11,7 @@ Choose a tier and dive in:
 - [Hard Rooms](*Coming Soon*)
 
 This collection grows continuously as I grind more rooms, sharpen skills, and prepare for professional certifications.
+
+---
+
+![TryHackMe Logo](thm-logo.png)
