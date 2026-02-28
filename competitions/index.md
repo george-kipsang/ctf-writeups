@@ -4,5 +4,5 @@ Each event includes challenge breakdowns, methodologies, and solutions across di
 
 ## Available Competitions¶
 - [Meru CTF 2025](./meru-ctf-2025/index.md)
-- PicoCTF *(coming soon)*
+- [PicoCTF](./picoctf/index.md)
 - Other CTFs will be added here as I complete and upload their writeups.

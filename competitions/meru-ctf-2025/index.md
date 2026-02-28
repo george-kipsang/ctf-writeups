@@ -1,14 +1,23 @@
-# Meru CTF 2025 Writeups¶
-This section documents my writeups from the Meru CTF 2025 competition.
-Each writeup reflects a structured methodology, practical problem-solving, and lessons learned across multiple cybersecurity domains.
+# Meru University CTF 2025
+
+**Date:** June 14, 2025  
+**Organizer:** Meru University  
+**Format:** Flash CTF (Jeopardy Style)  
+**Duration:** 2 Hours  
+
+## Event Overview
+
+The Meru University CTF 2025 was a fast-paced, jeopardy-style competition designed to test practical cybersecurity skills across multiple domains. 
+
+Participants had two hours to solve challenges spanning cryptography, forensics, binary exploitation, and miscellaneous problem-solving tasks.
+
+This repository contains structured writeups documenting my approach, methodology, and lessons learned from the competition.
 
 ## What my writeups include¶
 - Step-by-step challenge analysis
 - Exploitation methodology and reasoning
 - Screenshots, commands, and outputs
 - Key takeaways for each challenge
-
---- 
 
 ## Categories¶
 ### Binary Exploitation
