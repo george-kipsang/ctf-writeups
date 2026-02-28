@@ -14,5 +14,8 @@ Pick your level and hack:
 
 Collection grows as I tackle more machines and level up skills.
 
+---
+
+![thl-logo](thl-logo.png)
 
 
