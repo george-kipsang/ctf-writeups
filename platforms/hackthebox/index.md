@@ -1,5 +1,5 @@
 # HackTheBox Writeups¶
-TryHackMe provides hands‑on cybersecurity labs that reinforce practical exploitation skills.
+[HackTheBox](https://hs.hackthebox.com/) provides hands‑on cybersecurity labs that reinforce practical exploitation skills.
 
 This section contains my curated collection of room writeups — structured, concise, and focused on methodology.
 
@@ -12,3 +12,7 @@ Choose a tier and dive in:
 - [Insane Machines](*Comind Soon*)
 
 This collection grows continuously as I grind more rooms, sharpen skills, and prepare for professional certifications.
+
+---
+
+![HackTheBox Logo](htb-logo.png)
