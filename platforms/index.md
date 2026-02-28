@@ -15,6 +15,8 @@ Each platform hosts multiple challenges or rooms to strengthen your hands-on ski
 - [Natas](./overthewire/natas/index.md)
 - Bandit *(Coming Soon)*
 
+## The Hackers Lab
+
 ## TryHackMe
 - [Easy Rooms](./tryhackme/easy/index.md)
 - Medium Rooms *(Coming Soon)*

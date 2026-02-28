@@ -10,10 +10,11 @@ It is divided into two major sections:
 These are challenges completed on popular online cybersecurity platforms.
 
 ### Included Platforms
-- [HackTheBox](./platforms/hackthebox/)
-- [TryHackMe](./platforms/tryhackme/)
-- [VulnHub](./platforms/vulnhub/)
-- [OverTheWire](./platforms/overthewire/)
+- [HackTheBox](./platforms/hackthebox/index.md)
+- [TryHackMe](./platforms/tryhackme/index.md)
+- [The Hackers Lab](./platforms/thehackerslab/index.md)
+- [VulnHub](./platforms/vulnhub/index.md)
+- [OverTheWire](./platforms/overthewire/index.md)
 
 Each platform is organized by machine/challenge name, and every writeup follows a consistent format with screenshots stored in an `assets/` folder and referenced using standard Markdown:
 
